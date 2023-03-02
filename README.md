@@ -39,7 +39,6 @@ This challenge by Frontend Mentor involves the design of a QR Code Component. Th
 - Frontend Mentor - [@oduwole-ayomipo](https://www.frontendmentor.io/profile/oduwole-ayomipo)
 - Twitter - [@ayooo.eth](https://www.twitter.com/ayooo.eth)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 ## Acknowledgments
 
