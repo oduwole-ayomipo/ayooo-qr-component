@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This challenge by Frontend Mentor involves the design of a QR Code Component. The development took me less than 10 mins to complete without using no framework or library just HTML5 and CSS3!
 
 ### Screenshot
-![](./screenshot.jpg)
+![](https://github.com/oduwole-ayomipo/ayooo-qr-component/blob/main/qr-code-component-main/screenshot.png)
 
 
 ### Links
